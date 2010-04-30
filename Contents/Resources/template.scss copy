@@ -1,0 +1,91 @@
+/* Nested Rules */
+
+#main
+  width: 97%
+  p, div
+    font-size: 2em
+    a
+      font-weight: bold
+  pre
+    font-size: 3em
+ 
+/* Referencing Parent Selectors: & */   
+a
+  font-weight: bold
+  text-decoration: none
+  &:hover
+    text-decoration: underline
+  &:visited
+    font-weight: normal
+    
+/* Directives */
+@import red.sass
+@debug 10em + 12em
+
+@font-face
+  font-family: "Bitstream Vera Sans"
+  src: url(http://foo.bar/bvs")
+
+@media print
+  #sidebar
+    display: none
+  #main
+    background-color: white
+
+/* Control Directives */
+!type = "monster"
+p
+  @if !type == "ocean"
+    color: blue
+  @else if !type == "matador"
+    color: red
+  @else if !type == "monster"
+    color: green
+  @else
+    color: black
+    
+@for !i from 1 through 3
+  .item-#{!i}
+    width = 2em * !i
+    
+/* SassScript */
+color = #123 + #234
+
+
+/* Variables */
+!width = 5em
+
+#main
+  width = !width
+  
+/* Optional Assignment: ||= */
+!content = "First content"
+!content ||= "Second content?"
+!new_content ||= "First time reference"
+
+/* Mixins */
+=clearfix
+  display: inline-block
+  &:after
+    content: "."
+    display: block
+    height: 0
+    clear: both
+    visibility: hidden
+  * html &
+    height: 1px
+
+.page-title
+  +large-text
+  padding: 4px
+  margin:
+    top: 10px
+    
+=sexy-border(!color)
+  border:
+    color = !color
+    width: 1in
+    style: dashed
+   
+p
+  +sexy-border("blue")
