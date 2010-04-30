@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+  <template>template.txt</template>
+  <recognition>
+    <extension>sass</extension>
+    <extension casesensitive="no">sass</extension>
+    <extension>scss</extension>
+    <extension casesensitive="no">scss</extension>
+  </recognition>
+</settings>
