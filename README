@@ -1,4 +1,13 @@
 Sass.mode for Coda (and SubEthaEdit)
-====================================
+----------------------------------------------
 
-__Supported Extensions:__ `.scss` and `.sass`
+GIT: http://github.com/Brajeshwar/Sass.mode
+----------------------------------------------
+
+Supported Extensions: .scss, .sass
+----------------------------------------------
+
+REFERENCES
+
+More about Mode Customization: http://www.codingmonkeys.de/subethaedit/mode.html
+Forked from an earlier project at http://upstruct.svn.beanstalkapp.com/sass/ (not mine)
