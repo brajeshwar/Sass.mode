@@ -274,8 +274,7 @@
 	    	</keywords>
 	    	
 	    	<keywords id="Colors" color="#336699" font-style="normal" useforautocomplete="yes">
-		        <regex>(#[\da-fA-F]{3,6})</regex> <!-- STUDIO added coloring for anything 3 to 6 characters -->
-	  			<!--<regex>(#[\da-fA-F]{6})</regex>-->
+		        <regex>(#[\da-fA-F]{3,6})</regex>
 	        </keywords>
             
 	        <state id="Attributes" color="#000" background-color="#fff" font-weight="normal" font-style="normal">
