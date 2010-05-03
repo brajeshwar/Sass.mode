@@ -5,7 +5,7 @@ http://github.com/Brajeshwar/Sass.mode
 COMPATIBILITY
 
 Coda - http://www.panic.com/coda/
-SubEthaEdit - http://www.codingmonkeys.de/subethaedit/ (not tested, let me know if you test it)
+SubEthaEdit - http://www.codingmonkeys.de/subethaedit/
 ----------------------------------------------
 
 SUPPORTED EXTENSIONS
@@ -31,4 +31,4 @@ Notes:
 REFERENCES
 
 More about Mode Customization: http://www.codingmonkeys.de/subethaedit/mode.html
-Forked from an earlier project at http://upstruct.svn.beanstalkapp.com/sass/ (not mine)
+Forked from http://upstruct.svn.beanstalkapp.com/sass/ (Author: Tom-Marius Olsen)
