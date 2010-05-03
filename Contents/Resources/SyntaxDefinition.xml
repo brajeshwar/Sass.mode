@@ -261,7 +261,7 @@
 	        </keywords>
             
             <keywords id="Mixins" font-style="normal" font-weight="normal" color="#ff6600">
-            	<regex>(@mixin[\d\w-]+)</regex>
+            	<regex>(\@mixin[\s\d\w\-]+)</regex>
             	<regex>(\+[\d\w-]+)</regex>
             </keywords>
             
