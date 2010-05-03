@@ -24,6 +24,7 @@ git clone (or Copy) the "Sass.mode" folder "/Applications/Coda.app/Contents/Reso
 
 Notes:
 * Create folder(s) if needed.
+* You might need to rename the folder to "Sass.mode".
 * In the Alternate INSTALL, you'll need to do a "Show Package Content" on the "Coda" Application.
 ----------------------------------------------
 
