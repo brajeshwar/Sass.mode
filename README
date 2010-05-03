@@ -16,15 +16,15 @@ SUPPORTED EXTENSIONS
 
 INSTALL (Preferred)
 
-git clone (or Copy) the "Sass.mode" folder to "~/Library/Application Support/Coda/Modes"
+git clone (or Copy) "Sass.mode" folder to "~/Library/Application Support/Coda/Modes"
 
 Alternate INSTALL
 
-git clone (or Copy) the "Sass.mode" folder "/Applications/Coda.app/Contents/Resources/Modes"
+git clone (or Copy) "Sass.mode" folder "/Applications/Coda.app/Contents/Resources/Modes"
 
 Notes:
 * Create folder(s) if needed.
-* You might need to rename the folder to "Sass.mode".
+* You might need to rename the folder to "Sass.mode" (downloaded from source)
 * In the Alternate INSTALL, you'll need to do a "Show Package Content" on the "Coda" Application.
 ----------------------------------------------
 
