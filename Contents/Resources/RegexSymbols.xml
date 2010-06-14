@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE syntax SYSTEM "symbol.dtd">
 <symbols>
 
+    <!-- STUDIO -->
     <symbol id="Pragma marks" font-weight="normal" font-style="normal" image="SymbolMark" indentation="0" ignoreblocks="no" show-in-comments="yes">
         <regex>/\* !(.+) \*/</regex>
     </symbol>
-        
+
+    <symbol id="Import" font-weight="normal" font-style="normal" image="Symbol-Import" indentation="0" ignoreblocks="no" show-in-comments="yes">
+        <regex>(\@import)</regex>
+    </symbol>
+
 </symbols>
