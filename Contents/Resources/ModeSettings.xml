@@ -3,8 +3,6 @@
   <template>template.scss</template>
   <template>template.sass</template>
   <recognition>
-    <extension>sass</extension>
-    <extension casesensitive="no">sass</extension>
     <extension>scss</extension>
     <extension casesensitive="no">scss</extension>
   </recognition>

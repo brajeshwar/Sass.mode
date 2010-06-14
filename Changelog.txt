@@ -1,0 +1,6 @@
+CHANGELOG
+
+14 Jun, 2010:
+
+* Old Sass 2.0 (.sass) mode no longer supported. Upgrade to the new Sass (.scss) mode, its way better.
+* Removed template.sass

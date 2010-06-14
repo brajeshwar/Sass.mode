@@ -1,3 +1,0 @@
-"-moz" support
-Nested Mixings
-Double Check CSS3 Properties
