@@ -13,13 +13,9 @@ SUPPORTED EXTENSIONS
 .scss
 ----------------------------------------------
 
-INSTALL (Preferred)
+INSTALL
 
 git clone (or Copy) "Sass.mode" folder to "~/Library/Application Support/Coda/Modes"
-
-Alternate INSTALL
-
-git clone (or Copy) "Sass.mode" folder "/Applications/Coda.app/Contents/Resources/Modes"
 
 Notes:
 * Create folder(s) if needed.
@@ -30,4 +26,3 @@ Notes:
 REFERENCES
 
 More about Mode Customization: http://www.codingmonkeys.de/subethaedit/mode.html
-Forked from http://upstruct.svn.beanstalkapp.com/sass/ (Author: Tom-Marius Olsen)

@@ -1,6 +1,12 @@
 CHANGELOG
 
+17 Jun, 2010:
+* Added support for single line comments.
+* Fixed regex for attributes.
+* Updated readme.
+
 14 Jun, 2010:
 
 * Old Sass 2.0 (.sass) mode no longer supported. Upgrade to the new Sass (.scss) mode, its way better.
-* Removed template.sass
+* Removed template.sass.
+* Added symbol for imports.
