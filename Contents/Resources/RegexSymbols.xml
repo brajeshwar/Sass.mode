@@ -2,7 +2,6 @@
 <!DOCTYPE syntax SYSTEM "symbol.dtd">
 <symbols>
 
-    <!-- STUDIO -->
     <symbol id="Pragma marks" font-weight="normal" font-style="normal" image="SymbolMark" indentation="0" ignoreblocks="no" show-in-comments="yes">
         <regex>/\* !(.+) \*/</regex>
     </symbol>

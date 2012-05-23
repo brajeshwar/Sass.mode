@@ -1,7 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <settings>
   <template>template.scss</template>
-  <template>template.sass</template>
   <recognition>
     <extension>scss</extension>
     <extension casesensitive="no">scss</extension>
