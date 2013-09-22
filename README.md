@@ -1,6 +1,6 @@
-# Sass Mode (scss syntax) for Coda
+# Sass Mode (scss syntax) for Coda 1
 
-[Sass Mode](http://github.com/brajeshwar/Sass.mode) is now part of [Coda 2](http://panic.com/coda/).
+[Sass Mode](http://github.com/brajeshwar/Sass.mode) is now part of [Coda 2](http://panic.com/coda/) is no longer needed from Coda 2 onwards.
 
 ## Compatibility
 
@@ -14,6 +14,7 @@
 ## Install
 
 $ cd ~/Library/Application Support/Coda/Modes
+
 $ git clone git@github.com:brajeshwar/Sass.mode.git
 
 ## Install Alternate
